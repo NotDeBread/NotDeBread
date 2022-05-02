@@ -1,0 +1,3 @@
+-Heya im DeBread, im just a guy that is getting into coding with HTML, CSS, Kotlin, and Python(?)
+-I have a smalll YouTube Channel with ~250 Subs
+-I'm currently making a website to put all of my socials and projects on.
