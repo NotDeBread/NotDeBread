@@ -1,3 +1,22 @@
--Heya im DeBread, im just a guy that is getting into coding with HTML, CSS, Kotlin, and Python(?)
--I have a smalll YouTube Channel with ~250 Subs
--I'm currently making a website to put all of my socials and projects on.
+# Heya i'm DeBread
+#### Just some mediocre Webdeveloper who likes to make dumb websites.
+
+___
+
+### Language Knowlage
+#### HTML - 5/5
+#### CSS - 4/5
+#### JavaScript - 2/5
+#### Python - 1/5
+
+___
+
+### Social Links
+
+YouTube - https://youtube.com/notdebread
+
+Twitter - https://twitter.com/notdebread
+
+Twitch - https://twitch.tv/notdebread
+
+Discord Server - https://discord.gg/k6eMe3sCYX
