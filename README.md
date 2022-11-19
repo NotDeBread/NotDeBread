@@ -3,11 +3,10 @@
 
 ___
 
-### Language Knowlage
+### Language Knowledge
 #### HTML - 5/5
 #### CSS - 4/5
 #### JavaScript - 2/5
-#### Python - 1/5
 
 ___
 
