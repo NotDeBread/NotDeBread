@@ -1,4 +1,4 @@
-# Heya i'm DeBread
+# Heya I'm DeBread
 #### Just some mediocre Webdeveloper who likes to make dumb websites.
 
 ___
