@@ -3,14 +3,6 @@
 
 ___
 
-### Language Knowledge
-#### HTML - 5/5
-#### CSS - 4/5
-#### JavaScript - 3/5
-#### Kotlin - 2/5
-
-___
-
 ### Social Links
 
 Website - https://debread.space
